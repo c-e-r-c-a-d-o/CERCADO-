@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 { color: white; 
+	font-family:'Bauhaus 93'; 
+	font-size: 60px; 
+	padding: 20px; 
+	display: inline; 
+	position: relative; 
+	justify-content: center;
+
+}
+
+h3 { color: white; 
+	font-family:'updock'; 
+	font-size: 40px; 
+	border:  2px solid darkblue; 
+	padding: 1rem; 
+	margin: 20px; 
+	display:block;
+	 
+
+}
+
+p1 { color:white; 
+	font-family:  "Corbel Light"; 
+    border:thick solid darkblue; 
+	float: left;  
+	padding: 2rem; 
+	margin: 20px; 
+		
+}
+
+background-image { Background-size: cover; 
+
+}
+
+h2 { 
+color: white; 
+font-family: "updock"; 
+	font-size: 40px; 
+	border: solid darkblue; 
+	padding:1rem; 
+	margin-bottom: 3px; 
+	margin-top: 200px;
+	display: block; 
+}
+
+p2 { color:white; 
+font-family: "Corbel Light";  
+	border: thick solid darkblue; 
+	float: left;
+	padding: 2rem;
+	margin: 20px; 
+	display: block; 
+}
+
+.logo{ width:50px; 
+	cursor: pointer; 
+	margin: 30px 0;
+
+} 
+
+.container {
+	align-items:center;
+	justify-content: center;
+	background-color: mediumaquamarine;
+	display:block; 
+}
+
+.img-col{ flex-basis: 30%; 
+	display:block; 
+
+}
+
+.container { display: block;
+	align-items:center;
+	justify-content: center;
+	background-color: mediumaquamarine;
+	
+	
+
+
+}
+
+.img.col { flex-basis: 30%; 
+	 float: left; 
+	display:block; 
+	
+	
+}
+
+.logo{ display:block; 
+	align-items: center; 
+
+
+}

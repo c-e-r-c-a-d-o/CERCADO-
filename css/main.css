@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.jumbotron{ display: flex;
+  align-items: center; 
+background-image: url('images/35604788260_07ed6a59ae_b.jpg'); 
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+
+
+}
