@@ -42,25 +42,6 @@
 </html>
 
 
-<head>
-<meta charset="utf-8">
-<title>CERCADOCOMMUNITY</title>
-<link href="css/styles2.css" rel="stylesheet" type="text/css">
-</head>
-	
-<h1> BRAND VALUES </h1>
-	<p1> The pictures below include our brand values. <br> I am very proud to introduce these cards.  </p1>
-
-<body>
-	<div class="Brandvaluecards">
-	<img src="BRANDVALUE.jpeg" width="340" height="370" alt=""/>
-	<img src="BRANDVALUE3.jpeg" width="340" height="370" alt=""/></div>
-<img src="BrandVALUE2.jpeg" width="340" height="370" alt=""/>
-<img src="brandvalue4.jpeg" width="340" height="370" alt=""/>
-<style> Body {background-image: url('mirroring-water-blue-green.jpg')}</style>
-</body>
-</html>
-
 
 
 
